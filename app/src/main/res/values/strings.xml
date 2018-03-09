@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Download maps</string>
+    <string name="world_regions">World Regions</string>
+    <string name="free">Free&#160;</string>
+    <string name="free_memory">%s GB</string>
+    <string name="device_memory">Device memory</string>
+    <string name="downloading_name_map">Downloading %s</string>
+    <string name="percent">%1$d%%</string>
+</resources>
